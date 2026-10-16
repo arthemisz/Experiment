@@ -1,4 +1,4 @@
-# SpyX
+# Experiment
 
 An experimental project focused on rapid prototyping and exploratory features.
 
@@ -9,15 +9,6 @@ An experimental project focused on rapid prototyping and exploratory features.
 **SpyX** is a research and prototyping repository designed to test, validate, and iterate on experimental features, user interfaces, and architectural patterns.
 
 ---
-
-## Features
-
-- **Modular Architecture**: Built for flexible component integration and rapid prototyping.
-- **Experimental Prototypes**: Sandbox environment for testing new concepts and interactions.
-- **Clean Configuration**: Minimal setup required to start experimenting.
-
----
-
 ## Getting Started
 
 ### Prerequisites
@@ -78,19 +69,3 @@ SpyX/
 - [ ] Implement automated testing and CI/CD integration
 
 ---
-
-## Contributing
-
-Contributions, bug reports, and suggestions are welcome!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
